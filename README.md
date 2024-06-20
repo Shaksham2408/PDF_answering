@@ -46,12 +46,7 @@ To run this application locally, follow these steps:
 1. Upload a PDF file by clicking on "Upload a PDF file" button.
 2. Once the text is extracted, ask a question in the text input field provided.
 3. The application will provide the answer to your question based on the content of the PDF.
-
-## Example
-
-Here's a screenshot of the application interface:
-
-![Screenshot](screenshot.png)
+   
 
 ## Contributing
 
@@ -62,11 +57,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Additional Notes
-
-- Replace `screenshot.png` with an actual screenshot of your application.
-- Customize the content to fit specific details about your project, such as acknowledgments, known issues, or troubleshooting tips.
-- Ensure the `requirements.txt` file includes all necessary packages for others to replicate your environment.
-
-This README provides a clear overview of your project, making it easier for others to understand, use, and contribute to your PDF question answering application on GitHub. Adjust and expand as needed based on your project's specifics and intended audience.
